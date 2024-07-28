@@ -2,7 +2,7 @@
 title: "PKU-2024-IBAL-cracked-version"
 collection: Repositories
 type: "Repositories"
-permalink: /talks/2014-02-01-talk-2
+permalink: /Repositories/PKU-2024-IBAL-cracked-version
 venue: "London School of Testing"
 date: 2024-07-28
 location: "Beijing, China"
