@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Respositories"
-permalink: /Respositories/
+title: "Repositories"
+permalink: /Repositories/
 author_profile: true
 ---
 
