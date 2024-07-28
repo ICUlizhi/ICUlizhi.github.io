@@ -20,12 +20,12 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+
+  - title: "Course & Notes"
+    url: /Course & Notes/
   
-  - title: "Course Materials"
-    url: /Course Materials/
-  
-  - title: "repositories"
-    url: /repositories/
+  - title: "Repositories"
+    url: /Repositories/
 
   - title: "Blogs"
-    url: /blogs/
+    url: /Blogs/
