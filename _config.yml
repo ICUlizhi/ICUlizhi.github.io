@@ -249,7 +249,7 @@ defaults:
   # _Repositories
   - scope:
       path: ""
-      type: teaching
+      type: Repositories
     values:
       layout: single
       author_profile: true
