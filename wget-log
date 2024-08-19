@@ -1,0 +1,4 @@
+--2024-07-29 12:37:09--  http://www.google.com/
+Resolving www.google.com (www.google.com)... 31.13.106.4, 2001::1
+Connecting to www.google.com (www.google.com)|31.13.106.4|:80... failed: Connection timed out.
+Connecting to www.google.com (www.google.com)|2001::1|:80... failed: Network is unreachable.
