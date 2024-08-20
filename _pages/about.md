@@ -15,3 +15,5 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 <!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
 
 [Email](mailto:2200012917@stu.pku.edu.cn) / [Github](https://github.com/ICUlizhi) / [Wechat](../images/wechat.png) 
+
+The website is still under construction, and codes and course notes will be added in the future.
