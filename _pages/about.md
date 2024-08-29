@@ -18,7 +18,7 @@ The website is still under construction, and codes and course notes will be adde
 
 <h2>Pageviews</h2>
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=DLNp5LW_-B1YcRRtAr_ekvwy1j7QVQ3w2PnOfRuBlzw"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1lutTMxY8teuNSOv-l7GRWGihaLgiz_FsExYtZV-5l8&cl=ffffff&w=a"></script>
 
 <h2>Contact me</h2>
 
