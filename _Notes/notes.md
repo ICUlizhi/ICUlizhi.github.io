@@ -24,4 +24,4 @@ location: "Beijing, China"
   - 首先请在网站主页找到本人微信联系,找我要免费加入上面这个小圈的链接
   - 软件内(支持PC端)每次发资料就和发动态一样,参考:
   <img src = '../images/star-test.png'>
-  - 如果需要在我的主页宣传,请下载这个[markdown模版](https://iculizhi.github.io/files/nameofthemd.md),修改好后微信发我
+  - 如果需要在我的主页宣传,请下载这个[markdown模版](https://github.com/ICUlizhi/ICUlizhi.github.io/blob/master/files/nameofthemd.md),修改好后微信发我
