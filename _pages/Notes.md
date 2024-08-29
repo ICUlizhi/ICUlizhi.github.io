@@ -18,7 +18,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.Notes reversed %}
-  {% unless post.path contains '114514.md' %}
+  {% unless post.path contains 'notes.md' %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
