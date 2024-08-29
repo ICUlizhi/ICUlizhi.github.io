@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charge Page</title>
+    <style>
+        /* 你的样式代码 */
+    </style>
+</head>
+<body>
+    <h1 id="title">This is the Charge Page</h1>
+    <button id="charge-button">Charge Now</button>
+    <p id="result" style="display:none;">Charging in progress...</p>
+
+    <script>
+        document.getElementById('charge-button').addEventListener('click', function() {
+            var result = document.getElementById('result');
+            result.style.display = 'block';
+            result.textContent = 'Charging... Please wait.';
+            // 模拟一个简单的延时操作
+            setTimeout(function() {
+                result.textContent = 'Charging completed!';
+            }, 3000); // 3秒延时
+        });
+    </script>
+</body>
+</html>
