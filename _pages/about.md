@@ -16,11 +16,11 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 The website is still under construction, and codes and course notes will be added in the future.
 
-# Pageviews
+<h2>Pageviews</h2>
 
 <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=DLNp5LW_-B1YcRRtAr_ekvwy1j7QVQ3w2PnOfRuBlzw"></script>
 
-# Contact me
+<h2>Contact me</h2>
 
 [Email](mailto:2200012917@stu.pku.edu.cn) / [Github](https://github.com/ICUlizhi) / [Wechat](../images/wechat.png) 
 
