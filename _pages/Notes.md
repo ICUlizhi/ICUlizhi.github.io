@@ -17,8 +17,18 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.Notes reversed %}
-  {% unless post.path contains 'notes.md' %}
+## 专业课
+
+
+
+## 公共课
+{% assign notes_files = "PKU-2024-IBAL-cracked-version.md,金融学概论" | split: "," %}
+
+{% for filename in notes_files %}
+  {% assign post = site.Notes | where: "path", filename | first %}
+  {% if post %}
     {% include archive-single.html %}
-  {% endunless %}
+  {% endif %}
 {% endfor %}
+
+## 经双
