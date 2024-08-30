@@ -19,6 +19,16 @@ author_profile: true
 
 ## 专业课
 
+{% assign paths = "概论统计A(现为信概统).md" | split: "," %}
+
+{% for post in site.Notes reversed %}
+  {% for path in paths %}
+    {% if post.path contains path %}
+      {% include archive-single.html %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
 
 ## 公共课
