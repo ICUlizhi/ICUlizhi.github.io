@@ -6,7 +6,7 @@ academicpages没有系统性的官方文档,这让我这么一个门外汉在diy
 本章可以跳过
 ### 系统
 - _sass
-- _site
+- _site : 本地运行生成的网站文件,网络部署无需此文件夹
 - assets : 核心代码
 - talkmap
 ### 设置
@@ -134,3 +134,39 @@ location: "Beijing, China"
 ```
 参考效果
 <img src = 'images for how to use it/image3.png'>
+
+### 在主页加一个记录访问情况的世界地图
+[点这里](https://mapmyvisitors.com/)
+- 在这个网站整一个,输出一个html对象,复制到about.md,1分钟搞定
+
+### 导航页代码参考
+以Notes页为例:
+markdown的标题等等可以自由发挥
+#### Front Matter
+定义页面的元数据和布局信息
+```
+---
+layout: archive
+title: "Notes"
+permalink: /Notes/
+author_profile: true
+---
+```
+#### 展示指定的md文件 
+```
+{% include base_path %}
+{% assign paths = "概论统计A(现为信概统).md,hjfpython.md" | split: "," %}
+{% for post in site.Notes reversed %}
+  {% for path in paths %}
+    {% if post.path contains path %}
+      {% include archive-single.html %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+```
+这些md文件需要出现在根目录下_Notes文件夹中,不推荐使用直接遍历的写法
+#### md文件的内容
+其实就是Front Matter+自由发挥的markdown,可参考[模版](https://github.com/ICUlizhi/ICUlizhi.github.io/blob/master/files/nameofthemd.md)
+
+效果展示:
+<img src = 'images for how to use it/image4.png'>
