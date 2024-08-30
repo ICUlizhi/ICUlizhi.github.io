@@ -22,13 +22,15 @@ author_profile: true
 
 
 ## 公共课
-{% assign notes_files = "../Notes/PKU-2024-IBAL-cracked-version.md,../Notes/金融学概论.md" | split: "," %}
+{% assign paths = "PKU-2024-IBAL-cracked-version.md,金融学概论.md" | split: "," %}
 
-{% for filename in notes_files %}
-  {% assign post = site.Notes | where: "path", filename | first %}
-  {% if post %}
-    {% include archive-single.html %}
-  {% endif %}
+{% for post in site.Notes reversed %}
+  {% for path in paths %}
+    {% if post.path contains path %}
+      {% include archive-single.html %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 ## 经双
