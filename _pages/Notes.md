@@ -22,7 +22,7 @@ author_profile: true
 
 ## 专业课
 
-{% assign paths = "概论统计A(现为信概统).md,hjfpython.md" | split: "," %}
+{% assign paths = "概论统计A(现为信概统).md,hjfpython.md,Data-Structure-and-Algorithm-A-of-pku.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
