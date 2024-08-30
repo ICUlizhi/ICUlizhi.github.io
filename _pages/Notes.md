@@ -22,7 +22,7 @@ author_profile: true
 
 
 ## 公共课
-{% assign notes_files = "PKU-2024-IBAL-cracked-version.md,金融学概论" | split: "," %}
+{% assign notes_files = "../Notes/PKU-2024-IBAL-cracked-version.md,../Notes/金融学概论.md" | split: "," %}
 
 {% for filename in notes_files %}
   {% assign post = site.Notes | where: "path", filename | first %}
