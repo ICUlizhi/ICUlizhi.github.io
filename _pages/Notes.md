@@ -16,6 +16,9 @@ author_profile: true
 
 
 {% include base_path %}
+## 预告
+
+本学期新开坑: 数算A,nsd博弈论,gg博弈论(前者子集),宏经健,信数
 
 ## 专业课
 
