@@ -19,7 +19,7 @@ author_profile: true
 
 ## 专业课
 
-{% assign paths = "概论统计A(现为信概统).md" | split: "," %}
+{% assign paths = "概论统计A(现为信概统).md,hjfpython.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
@@ -32,7 +32,7 @@ author_profile: true
 
 
 ## 公共课
-{% assign paths = "PKU-2024-IBAL-cracked-version.md,金融学概论.md" | split: "," %}
+{% assign paths = "PKU-2024-IBAL-cracked-version.md,金融学概论.md,地震概论.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
