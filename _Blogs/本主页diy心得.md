@@ -163,17 +163,7 @@ author_profile: true
 ---
 ```
 #### 展示指定的md文件 
-```
-{% include base_path %}
-{% assign paths = "概论统计A(现为信概统).md,hjfpython.md" | split: "," %}
-{% for post in site.Notes reversed %}
-  {% for path in paths %}
-    {% if post.path contains path %}
-      {% include archive-single.html %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-```
+
 这些md文件需要出现在根目录下_Notes文件夹中,不推荐使用直接遍历的写法
 #### md文件的内容
 其实就是Front Matter+自由发挥的markdown,可参考[模版](https://github.com/ICUlizhi/ICUlizhi.github.io/blob/master/files/nameofthemd.md)
