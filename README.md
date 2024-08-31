@@ -170,3 +170,13 @@ author_profile: true
 
 效果展示:
 <img src = 'images for how to use it/image4.png'>
+
+## 四. include研究
+### 页面本身
+#### archive-single.html
+似乎是最简单的md展示,只是简单的罗列标题和展示
+- archive-single-cv,archive-single-talk-cv,archive-single-talk 这些做了定制
+### analytics-providets
+### comments-providers
+### footer
+### head
