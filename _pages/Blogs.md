@@ -6,7 +6,6 @@ author_profile: true
 ---
 {% assign paths = "本主页diy心得.md" | split: "," %}
 
-<ul>
 {% for post in site.Notes reversed %}
   {% for path in paths %}
     {% if post.path contains path %}
@@ -15,6 +14,5 @@ author_profile: true
     {% endif %}
   {% endfor %}
 {% endfor %}
-</ul>
 
 
