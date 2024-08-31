@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 {% assign paths = "本主页diy心得.md" | split: "," %}
 
-{% for post in site.Notes reversed %}
+{% for post in site.Blogs reversed %}
   {% for path in paths %}
     {% if post.path contains path %}
       {% include archive-single.html %}
