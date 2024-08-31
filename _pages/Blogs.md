@@ -10,7 +10,7 @@ author_profile: true
 {% for post in site.Notes reversed %}
   {% for path in paths %}
     {% if post.path contains path %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% include archive-single.html %}
       {% break %}
     {% endif %}
   {% endfor %}
