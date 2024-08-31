@@ -194,6 +194,9 @@ collections:
   Notes:
     output: true
     permalink: /:collection/:path/
+  Blogs:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -263,6 +266,15 @@ defaults:
   - scope:
       path: ""
       type: Notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _Notes
+  - scope:
+      path: ""
+      type: Blogs
     values:
       layout: single
       author_profile: true

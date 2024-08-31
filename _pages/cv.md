@@ -8,13 +8,46 @@ redirect_from:
 ---
 
 {% include base_path %}
+Contact Information
+======
+* Name: Jing Xu
+* Phone&Wechat: 15705694836
+* Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
+* GitHub: [iculizhi](https://github.com/ICUlizhi)
+* Personal Homepage: [iculizhi.github.io](https://iculizhi.github.io/)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Beijing, Peking University, 2022
+  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
+  * Double Major: Economics, National School of Development
 
+Awards
+======
+* Silver Medal in China Mathematical Olympiad (CMO)
+
+Research Experiences
+======
+* Three Rotation Research Projects of Turing Class
+  * Scoring Rules and Prediction Markets
+  * Multimodal Large Models
+  * Game Theory, Control Theory & Computational Advertising
+
+Skills
+======
+* Programming Languages: Python, C/C++, JavaScript, LaTeX
+* Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing, Multimodal Large Models (API usage and performance analysis)
+* Data Science: Data Analysis, Data Visualization
+* Software Development: Object-Oriented Programming, Version Control/Git
+* Web Development: HTML, CSS, Node.js
+* Operating Systems: Linux, Windows
+* Tools and Frameworks: TensorFlow, PyTorch, Scikit-learn, Jupyter Notebook
+* Economics: Microeconomics, Econometrics
+* Student Activities: Organizing large-scale (1000+) events, Graphic Design, External Liaison, Planning regular sports and cultural activities
+* Soft Skills: Problem Solving, Team Collaboration, Communication, Adaptability
+
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -27,14 +60,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -57,3 +83,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
