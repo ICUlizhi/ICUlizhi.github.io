@@ -4,6 +4,7 @@ title: "Blogs"
 permalink: /Blogs/
 author_profile: true
 ---
+{% include base_path %}
 {% assign paths = "本主页diy心得.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
