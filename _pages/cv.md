@@ -13,7 +13,7 @@ Contact Information
 * Name: Jing Xu
 * Phone&Wechat: 15705694836
 * Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* GitHub: [iculizhi](https://github.com/ICUlizhi)
+* GitHub: [github.com/ICUlizhi](https://github.com/ICUlizhi)
 * Personal Homepage: [iculizhi.github.io](https://iculizhi.github.io/)
 
 Education
