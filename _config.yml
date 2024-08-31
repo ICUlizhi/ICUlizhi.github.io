@@ -333,3 +333,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+github:
+  token: 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

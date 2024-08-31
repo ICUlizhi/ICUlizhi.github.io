@@ -4,7 +4,7 @@ collection: Blogs
 type: "Blogs"
 permalink: /Blogs/本主页diy心得
 venue: "Peking Univercity"
-date: 2024-08-30
+date: 2024-08-31
 location: "Beijing, China"
 ---
 
