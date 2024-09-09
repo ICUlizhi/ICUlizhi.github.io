@@ -47,6 +47,16 @@ author_profile: true
 {% endfor %}
 
 ## 经双
+{% assign paths = "博弈论.md" | split: "," %}
+
+{% for post in site.Notes reversed %}
+  {% for path in paths %}
+    {% if post.path contains path %}
+      {% include archive-single.html %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 ## 其他
 {% assign paths = "社会主义学习.md" | split: "," %}
 
