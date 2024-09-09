@@ -11,7 +11,7 @@ author_profile: true
 {% for post in site.Blogs reversed %}
   {% for path in paths %}
     {% if post.path contains path %}
-      {% include archive-single.html %}
+      {% include archive-single-talk.html %}
       {% break %}
     {% endif %}
   {% endfor %}
