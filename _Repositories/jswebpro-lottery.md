@@ -9,4 +9,4 @@ location: "Beijing, China"
 ---
 jsweb课程大作业,一个简单的抽奖程序的DIY,学工办晚会很好用
 - 状态 : 完结,开源
-- 链接 : [ICUlizhi.github.io](https://github.com/ICUlizhi/jswebpro-lottery)
+- 链接 : [jswebpro-lottery](https://github.com/ICUlizhi/jswebpro-lottery)
