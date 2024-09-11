@@ -9,4 +9,4 @@ location: "Beijing, China"
 ---
 pdf转笔记小工具
 - 状态 : 未完结,开源
-- 链接 : [ICUlizhi.github.io](https://github.com/ICUlizhi/pdf2note)
+- 链接 : [pdf2note](https://github.com/ICUlizhi/pdf2note)
