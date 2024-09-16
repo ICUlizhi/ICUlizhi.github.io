@@ -47,7 +47,7 @@ author_profile: true
 {% endfor %}
 
 ## 经双
-{% assign paths = "博弈论.md" | split: "," %}
+{% assign paths = "博弈论.md,宏观经济与健康.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
