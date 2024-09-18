@@ -35,7 +35,7 @@ author_profile: true
 
 
 ## 公共课
-{% assign paths = "PKU-2024-IBAL-cracked-version.md,金融学概论.md,地震概论.md" | split: "," %}
+{% assign paths = "PKU-2024-IBAL-cracked-version.md,金融学概论.md,地震概论.md,博弈论*2.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
