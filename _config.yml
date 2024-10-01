@@ -197,6 +197,9 @@ collections:
   Blogs:
     output: true
     permalink: /:collection/:path/
+  additions:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -275,6 +278,15 @@ defaults:
   - scope:
       path: ""
       type: Blogs
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _additions
+  - scope:
+      path: ""
+      type: additions
     values:
       layout: single
       author_profile: true
