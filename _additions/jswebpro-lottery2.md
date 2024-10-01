@@ -1,8 +1,8 @@
 ---
 title: "jswebpro-lottery"
-collection: Repositories
-type: "Repositories"
-permalink: /Repositories/jswebpro-lottery2
+collection: additions
+type: "additions"
+permalink: /additions/jswebpro-lottery2
 venue: "Peking Univercity"
 date: 2024-10-01
 location: "Beijing, China"
