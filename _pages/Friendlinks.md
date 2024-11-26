@@ -9,12 +9,12 @@ author_profile: true
 <h1>My Friend Links</h1>
 <p>Welcome to my friend links page. Here you can find links to other websites that I recommend!</p>
 
-<!-- 你可以在这里添加具体的友链内容，例如列表 -->
-<ul>
-  <li><a href="https://example.com">Example Website</a></li>
-  <li><a href="https://another-site.com">Another Site</a></li>
-  <li><a href="https://yetanother-site.com">Yet Another Site</a></li>
+<h1>Friend Links</h1>
+<ul id="friend-links">
+  <!-- 动态加载的友链将出现在这里 -->
 </ul>
+
+<script src="assets/js/diy/friendlinks.js"></script>
 
 <!-- Giscus 评论系统嵌入 -->
 <script src="https://giscus.app/client.js"
