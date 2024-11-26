@@ -60,7 +60,7 @@ author_profile: true
   const friendsData = [
     {
       name: "YangTY's Blog",
-      avatar: "avatars/54734412.jpg",  // 确保路径正确
+      avatar: "../images/avatars/54734412.jpg",  // 确保路径正确
       intro: "越过山川",
       url: "https://blog.imyangty.com/"
     },
