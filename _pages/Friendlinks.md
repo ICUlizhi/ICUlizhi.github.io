@@ -12,7 +12,6 @@ author_profile: true
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>我的好友链接</title>
   <style>
     /* 页面基本样式 */
     body {
