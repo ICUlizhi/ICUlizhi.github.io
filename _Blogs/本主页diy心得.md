@@ -170,3 +170,20 @@ author_profile: true
 
 效果展示:
 <img src = 'images for how to use it/image4.png'>
+
+<script src="https://giscus.app/client.js"
+        data-repo="ICUlizhi/ICUlizhi.github.io"
+        data-repo-id="R_kgDOKfCXRQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOKfCXRc4CknGa"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -11,8 +11,6 @@ author_profile: true
 
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     /* 好友链接列表样式 */
     .friend-links-container {
@@ -90,7 +88,6 @@ author_profile: true
     });
   </script>
 </body>
-</html>
 
 
 请在评论区留言告知intro和link, 或者微信or邮箱联系我.
