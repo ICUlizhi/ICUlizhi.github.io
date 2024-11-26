@@ -56,10 +56,9 @@ author_profile: true
 <body>
 
 <p>Welcome to my friend links page. Here you can find links to other websites that I recommend!</p>
-
+<br/><br/>
 <div class="friend-links-container">
     <!-- 每个好友卡片 -->
-    <p>111</p>
     <div class="friend-card">
       <a href="https://blog.imyangty.com/" target="_blank">
         <img src="../images/avatars/54734412.jpg" alt="YangTY's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
@@ -68,10 +67,12 @@ author_profile: true
       </a>
     </div>
   </div>
-
+<br/><br/>
 
 
 请在评论区留言告知intro和link, 或者微信or邮箱联系我.
+
+如果只留言了intro和link, 加上友链后我会将该评论删除.
 <!-- Giscus 评论系统嵌入 -->
 <script src="https://giscus.app/client.js"
         data-repo="ICUlizhi/ICUlizhi.github.io"
