@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Friendlinks"
 permalink: /Friendlinks/
 author_profile: true
