@@ -20,7 +20,7 @@ author_profile: true
     }
     /* 每个好友的卡片样式 */
     .friend-card {
-      background-color: ##f0f0f0;
+      background-color: #f0f0f0;
       border-radius: 10px;
       padding: 15px;
       width: 200px;
