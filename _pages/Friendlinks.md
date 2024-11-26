@@ -64,13 +64,13 @@ author_profile: true
     const friendsData = [
       {
         name: "YangTY's Blog",
-        avatar: "_additions/avatars/54734412.jpg",  // 头像图片链接（确保图片路径正确）
+        avatar: "/_additions/avatars/54734412.jpg",  // 头像图片链接（确保图片路径正确）
         intro: "越过山川",
         url: "https://blog.imyangty.com/"
       },
       {
         name: "Example Friend",
-        avatar: "_additions/avatars/12345678.jpg",  // 另一个头像图片链接
+        avatar: "/_additions/avatars/12345678.jpg",  // 另一个头像图片链接
         intro: "分享我的博客和作品",
         url: "https://example.com"
       },
