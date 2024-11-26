@@ -65,31 +65,21 @@ author_profile: true
       url: "https://blog.imyangty.com/"
     },
   ];
-
   const friendLinksContainer = document.getElementById('friendLinks');
-
   friendsData.forEach(friend => {
     const card = document.createElement('div');
     card.classList.add('friend-card');
-    
-    // 点击卡片跳转到对应链接
     card.addEventListener('click', () => {
       window.location.href = friend.url;
     });
-
-    // 使用默认头像和简介保护
     const avatar = friend.avatar || 'path/to/default-avatar.jpg';
     const name = friend.name || '未知名称';
     const intro = friend.intro || '没有简介';
-
-    // 设置卡片内容
     card.innerHTML = `
       <img src="${avatar}" alt="${name}" class="avatar" onerror="this.onerror=null;this.src='path/to/default-avatar.jpg';">
       <div class="friend-name">${name}</div>
       <div class="friend-intro">${intro}</div>
     `;
-
-    // 将卡片添加到容器中
     friendLinksContainer.appendChild(card);
   });
 </script>
