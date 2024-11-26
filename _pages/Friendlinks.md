@@ -12,7 +12,19 @@ author_profile: true
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>我的好友链接</title>
   <style>
+    /* 页面基本样式 */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      text-align: center;
+      margin-top: 20px;
+    }
     /* 好友链接列表样式 */
     .friend-links-container {
       display: flex;
