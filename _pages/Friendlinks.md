@@ -9,23 +9,11 @@ author_profile: true
 
 <p>Welcome to my friend links page. Here you can find links to other websites that I recommend!</p>
 
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* 页面基本样式 */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
-    h1 {
-      text-align: center;
-      margin-top: 20px;
-    }
     /* 好友链接列表样式 */
     .friend-links-container {
       display: flex;
