@@ -59,11 +59,18 @@ author_profile: true
 <br/><br/>
 <div class="friend-links-container">
     <!-- 每个好友卡片 -->
-    <div class="friend-card">
+    <div class="friend-card" style="background-color: #f0f0f0;">
       <a href="https://blog.imyangty.com/" target="_blank">
         <img src="../images/avatars/54734412.jpg" alt="YangTY's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">YangTY's Blog</div>
         <div class="friend-intro">越过山川</div>
+      </a>
+    </div>
+        <div class="friend-card" style="background-color: #9fe4fc;">
+      <a href="https://github.com/Achyutace/" target="_blank">
+        <img src="../images/avatars/qlc.jpg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">Achyutace</div>
+        <div class="friend-intro">一个喜欢下次一定的学生</div>
       </a>
     </div>
   </div>
