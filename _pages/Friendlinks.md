@@ -70,9 +70,9 @@ author_profile: true
 <br/><br/><br/>
 
 
-请在评论区留言告知intro和link, 或者微信or邮箱联系我.
+请在评论区留言告知 intro 和 link, 或者微信 or 邮箱联系我.
 <br/>
-如果只留言了intro和link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.
+如果只留言了 intro 和 link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.
 <!-- Giscus 评论系统嵌入 -->
 <script src="https://giscus.app/client.js"
         data-repo="ICUlizhi/ICUlizhi.github.io"
