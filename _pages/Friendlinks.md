@@ -66,11 +66,18 @@ author_profile: true
         <div class="friend-intro">越过山川</div>
       </a>
     </div>
-        <div class="friend-card" style="background-color: #9fe4fc;">
+    <div class="friend-card" style="background-color: #9fe4fc;">
       <a href="https://github.com/Achyutace/" target="_blank">
         <img src="../images/avatars/qlc.jpg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">Achyutace</div>
         <div class="friend-intro">一个喜欢下次一定的学生</div>
+      </a>
+    </div>
+    <div class="friend-card" style="background-color: #f9f2ff;">
+      <a href="https://ldblog.icu/" target="_blank">
+        <img src="../images/avatars/pAaPnn1.jpg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">LD's Blog</div>
+        <div class="friend-intro">万般皆磨炼，有志终逞愿。</div>
       </a>
     </div>
   </div>
