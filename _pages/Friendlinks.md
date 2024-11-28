@@ -80,6 +80,13 @@ author_profile: true
         <div class="friend-intro">万般皆磨炼，有志终逞愿。</div>
       </a>
     </div>
+    <div class="friend-card" style="background-color: #f5ccf5;">
+      <a href="hanlife02.com.cn" target="_blank">
+        <img src="../images/avatars/evcvs61h0ajgvoai07.jpeg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">Ethan's Blog</div>
+        <div class="friend-intro">Don’t stay awake for too long.</div>
+      </a>
+    </div>
   </div>
 <br/><br/><br/>
 
