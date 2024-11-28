@@ -87,6 +87,13 @@ author_profile: true
         <div class="friend-intro">Don’t stay awake for too long.</div>
       </a>
     </div>
+    <div class="friend-card" style="background-color: #f5e2cc;">
+      <a href="https://hcx1999.github.io/blog/" target="_blank">
+        <img src="../images/avatars/微信图片_20241129002949.jpg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">hcx1999's Blog</div>
+        <div class="friend-intro">Not even wrong</div>
+      </a>
+    </div>
   </div>
 <br/><br/><br/>
 
