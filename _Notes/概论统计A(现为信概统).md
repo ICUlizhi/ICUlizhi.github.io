@@ -14,3 +14,20 @@ location: "Beijing, China"
 - 描述 : 通用的概率统计笔记,统计部分掺杂了一些我的理解,置信区间这种要考的我整理了表格可以直接背
 - 链接 : [懂你的gay捅](../files/懂你的gay捅完整版v1.2.pdf)
 > PS : 我的第一个也是最后一个用word公式编辑器完成的笔记,此时稚嫩的我还不能熟练手打latex数学公式,写这个笔记的经历让我迅速背诵了各种数学符号的代码(公式编辑器的代码和latex一样),很有收获
+
+<script src="https://giscus.app/client.js"
+        data-repo="ICUlizhi/ICUlizhi.github.io"
+        data-repo-id="R_kgDOKfCXRQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOKfCXRc4CknGa"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
