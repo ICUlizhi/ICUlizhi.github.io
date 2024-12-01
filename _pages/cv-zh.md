@@ -1,50 +1,50 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv-zh/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-Contact Information
+联系方式
 ======
-* Name: Jing Xu
-* Phone&Wechat: 15705694836
-* Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* GitHub: [github.com/ICUlizhi](https://github.com/ICUlizhi)
-* Personal Homepage: [iculizhi.github.io](https://iculizhi.github.io/)
+* 姓名：徐静
+* 电话及微信：15705694836
+* 邮箱：[2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
+* GitHub：[github.com/ICUlizhi](https://github.com/ICUlizhi)
+* 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
 
-Education
+学历
 ======
-* B.S. in Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
-  * Double Major: Economics, National School of Development
+* 本科：北京，北京大学，2022
+  * 专业：信息与计算科学（图灵班），信息科学技术学院
+  * 双学位：经济学，国家发展研究院
 
-Awards
+奖项
 ======
-* Silver Medal in China Mathematical Olympiad (CMO)
+* 中国数学奥林匹克（CMO）银牌
 
-Research Experiences
+研究经历
 ======
-* Three Rotation Research Projects of Turing Class
-  * Scoring Rules and Prediction Markets
-  * Multimodal Large Models
-  * Game Theory, Control Theory & Computational Advertising
+* 图灵班轮转
+  * 评分规则与预测市场
+  * 多模态大模型
+  * 博弈论、控制理论与计算广告
 
-Skills
+技能
 ======
-* Programming Languages: Python, C/C++, JavaScript, LaTeX
-* Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing, Multimodal Large Models (API usage and performance analysis)
-* Data Science: Data Analysis, Data Visualization
-* Software Development: Object-Oriented Programming, Version Control/Git
-* Web Development: HTML, CSS, Node.js
-* Operating Systems: Linux, Windows
-* Tools and Frameworks: TensorFlow, PyTorch, Scikit-learn, Jupyter Notebook
-* Economics: Microeconomics, Econometrics
-* Student Activities: Organizing large-scale (1000+) events, Graphic Design, External Liaison, Planning regular sports and cultural activities
-* Soft Skills: Problem Solving, Team Collaboration, Communication, Adaptability
+* 编程语言：Python、C/C++、JavaScript、LaTeX
+* 人工智能：机器学习、深度学习、自然语言处理、多模态大模型（API 使用）
+* 数据科学：数据分析、数据可视化
+* 软件开发：面向对象编程、版本控制/Git
+* Web 开发：HTML、CSS、Node.js
+* 操作系统：Linux、Windows
+* 工具和框架：TensorFlow、 PyTorch、Scikit-learn、Jupyter Notebook
+* 经济学：微观经济学、计量经济学
+* 学生活动：组织大型（1000+）活动、平面设计、外部联络、规划定期体育和文化活动
+* 软技能：解决问题、团队协作、沟通、适应性
 
 
 <!--
