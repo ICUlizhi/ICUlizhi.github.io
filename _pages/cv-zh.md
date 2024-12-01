@@ -43,7 +43,7 @@ redirect_from:
 * 操作系统：Linux、Windows
 * 工具和框架：TensorFlow、 PyTorch、Scikit-learn、Jupyter Notebook
 * 经济学：微观经济学、计量经济学
-* 学生活动：组织大型（1000+）活动、平面设计、外部联络、规划定期体育和文化活动
+* 学生组织：组织大型（1000+）活动、平面设计、外部联络、规划定期体育和文化活动
 * 软技能：解决问题、团队协作、沟通、适应性
 
 
