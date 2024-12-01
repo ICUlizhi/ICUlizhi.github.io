@@ -32,7 +32,7 @@ redirect_from:
             transform: scale(1.1); /* 放大效果 */
         }
         .btn:active {
-            background-color: bbb; /* 点击时变更颜色 */
+            background-color: #bbb; /* 点击时变更颜色 */
             transform: scale(1.05); /* 按钮按下时稍微缩小 */
         }
     </style>
