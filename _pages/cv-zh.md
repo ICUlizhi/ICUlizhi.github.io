@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 联系方式
 ======
-* 姓名：徐静
+* 姓名：徐靖
 * 电话及微信：15705694836
 * 邮箱：[2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
 * GitHub：[github.com/ICUlizhi](https://github.com/ICUlizhi)

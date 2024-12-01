@@ -30,7 +30,7 @@ redirect_from:
             transition: background-color 0.3s, transform 0.2s;
         }
         .btn:hover {
-            background-color: #ccc; /* 悬停时变深绿色 */
+            background-color: #ccc; 
             transform: scale(1.1); /* 放大效果 */
         }
         .btn:active {
