@@ -57,6 +57,7 @@ author_profile: true
     {% endif %}
   {% endfor %}
 {% endfor %}
+
 ## 其他
 {% assign paths = "社会主义学习.md" | split: "," %}
 
