@@ -41,7 +41,7 @@ redirect_from:
 </head>
 <body>
     <div class="container">
-        <button class="btn" onclick="window.location.href='cv-zh.html'">切换到中文</button>
+<button class="btn" onclick="window.location.href='/cv-zh'">切换到中文</button>
     </div>
 </body>
 
