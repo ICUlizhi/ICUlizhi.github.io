@@ -40,9 +40,11 @@ redirect_from:
     </style>
 </head>
 <body>
+    <br/><br/>
     <div class="container">
 <button class="btn" onclick="window.location.href='/cv-zh'">切换到中文</button>
     </div>
+    <br/><br/>
 </body>
 
 Contact Information

@@ -38,9 +38,11 @@ redirect_from:
     </style>
 </head>
 <body>
+    <br/><br/>
     <div class="container">
 <button class="btn" onclick="window.location.href='/cv'">Switch to English</button>
     </div>
+    <br/><br/>
 </body>
 
 联系方式
