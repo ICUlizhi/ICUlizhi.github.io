@@ -8,6 +8,8 @@ date: 2024-09-09
 location: "Beijing, China"
 ---
 
+> 此教程已作废, 因为自 2024.11 起 OCBC 已经 ban 了这种开户方式, 唯一 0 门槛对中国用户开放申请的海外传统银行成为了历史.
+
 - 我目前没有出国读phd的打算,但是买一些境外网站的服务需要,比如gpt,mathpix.当然你也可以淘宝代充
 - 选择了OCBC,有几点优势:
   - Oversea-Chinese Banking Corporation Limited Singapore , 新加坡本土第二大银行
