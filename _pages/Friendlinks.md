@@ -94,6 +94,13 @@ author_profile: true
         <div class="friend-intro">Not even wrong</div>
       </a>
     </div>
+    <div class="friend-card" style="background-color: #f2c0b4;">
+      <a href="djdjz7.top" target="_blank">
+        <img src="../images/avatars/1111.jpg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">Jason Dai</div>
+        <div class="friend-intro">藉娴嬩屾澂鍙ｆ皵涔版潵鏃</div>
+      </a>
+    </div>
   </div>
 <br/><br/><br/>
 
