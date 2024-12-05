@@ -56,10 +56,12 @@ author_profile: true
 <body>
 
 
-## 下载专区
-- [北京大学2025年春季课表(可搜索)](../files/北京大学2025春季课表.xlsx)
+<h2>下载专区</h2>
+<ul>
+  <li><a href="../files/北京大学2025春季课表.xlsx">北京大学2025年春季课表(可搜索)</a></li>
+</ul>
 
-## 友链
+<h2>友链</h2>
 
 <br/><br/>
 <div class="friend-links-container">
