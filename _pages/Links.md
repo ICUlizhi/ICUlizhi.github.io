@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Friendlinks"
-permalink: /Friendlinks/
+title: "Links"
+permalink: /Links/
 author_profile: true
 ---
 
@@ -55,7 +55,12 @@ author_profile: true
 </head>
 <body>
 
-<p>Welcome to my friend links page. Here you can find links to other websites that I recommend!</p>
+
+## 下载专区
+- [北京大学2025年春季课表(可搜索)](../files/北京大学2025春季课表.xlsx)
+
+## 友链
+
 <br/><br/>
 <div class="friend-links-container">
     <!-- 每个好友卡片 -->

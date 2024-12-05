@@ -200,7 +200,7 @@ collections:
   additions:
     output: true
     permalink: /:collection/:path/
-  Friendlinks:
+  Links:
     output: true
     permalink: /:collection/:path/
 
@@ -298,7 +298,7 @@ defaults:
   # _Friendlinks
   - scope:
       path: ""
-      type: Friendlinks
+      type: Links
     values:
       layout: single
       author_profile: true
