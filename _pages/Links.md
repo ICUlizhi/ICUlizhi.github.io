@@ -88,7 +88,7 @@ author_profile: true
       </a>
     </div>
     <div class="friend-card" style="background-color: #f5ccf5;">
-      <a href="hanlife02.com.cn" target="_blank">
+      <a href="https://hanlife02.com.cn/" target="_blank">
         <img src="../images/avatars/evcvs61h0ajgvoai07.jpeg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">Ethan's Blog</div>
         <div class="friend-intro">Don’t stay awake for too long.</div>
@@ -102,7 +102,7 @@ author_profile: true
       </a>
     </div>
     <div class="friend-card" style="background-color: #f2c0b4;">
-      <a href="djdjz7.top" target="_blank">
+      <a href="https://djdjz7.top" target="_blank">
         <img src="../images/avatars/1111.jpg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">堜互涓�绠€</div>
         <div class="friend-intro">藉娴嬩屾澂鍙ｆ皵涔版潵鏃</div>
