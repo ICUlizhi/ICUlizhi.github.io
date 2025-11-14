@@ -122,6 +122,13 @@ author_profile: true
         <div class="friend-intro">it from bit</div>
       </a>
     </div>
+    <div class="friend-card" style="background-color: #C6F7F3;">
+      <a href="https://lwlaymh.github.io/" target="_blank">
+        <img src="https://lwlaymh.github.io/images/%E5%A4%B4%E5%83%8F1.jpg" alt="LWLAymh" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">LWLAymh</div>
+        <div class="friend-intro">不过是白日梦里一瞬息</div>
+      </a>
+    </div>
   </div>
 <br/><br/><br/>
 
