@@ -115,6 +115,13 @@ author_profile: true
     <div class="friend-intro">一只兔兔</div>
   </a>
 </div>
+    <div class="friend-card" style="background-color: #DEFCCC;">
+      <a href="https://chryseisliu.github.io/" target="_blank">
+        <img src="https://chryseisliu.github.io/images/IMG_1303.jpeg" alt="Chryseis Liu" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">Chryseis Liu</div>
+        <div class="friend-intro">it from bit</div>
+      </a>
+    </div>
   </div>
 <br/><br/><br/>
 
