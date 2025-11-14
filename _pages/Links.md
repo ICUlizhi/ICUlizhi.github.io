@@ -129,14 +129,16 @@ author_profile: true
 
 请在评论区留言告知 intro 和 link , 或者微信 or 邮箱联系我.
 
-```json
+<pre style="background:#f6f8fa;padding:12px;border-radius:6px;overflow:auto;">
+<code class="language-json" aria-label="Jing Xu's Site metadata">
 {
-  "name": "Jing Xu's Site",
-  "intro": "上士闻道, 勤而行之.",
-  "link": "https://iculizhi.github.io/",
-  "icon": "https://iculizhi.github.io/images/xj.jpg"
+  &quot;name&quot;: &quot;Jing Xu's Site&quot;,
+  &quot;intro&quot;: &quot;上士闻道, 勤而行之.&quot;,
+  &quot;link&quot;: &quot;https://iculizhi.github.io/&quot;,
+  &quot;icon&quot;: &quot;https://iculizhi.github.io/images/xj.jpg&quot;
 }
-```
+</code>
+</pre>
 
 <br/>
 
