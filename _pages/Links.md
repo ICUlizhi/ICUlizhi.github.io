@@ -127,15 +127,17 @@ author_profile: true
 <br/><br/><br/>
 
 
-请在评论区留言告知 intro 和 link, 或者微信 or 邮箱联系我.
+请在评论区留言告知 intro 和 link , 或者微信 or 邮箱联系我.
 
-- Name: Jing Xu's Site
-- Introduction: 上士闻道, 勤而行之.
-- Link: https://iculizhi.github.io/
-- Icon: https://iculizhi.github.io/images/xj.jpg
+<div class="suggested-link">
+  <p><strong>Name:</strong> Jing Xu's Site</p>
+  <p><strong>Intro:</strong> 上士闻道, 勤而行之.</p>
+  <p><strong>Link:</strong> <a href="https://iculizhi.github.io/" target="_blank">https://iculizhi.github.io/</a></p>
+  <p><strong>Icon:</strong> <a href="https://iculizhi.github.io/images/xj.jpg" target="_blank"><img src="https://iculizhi.github.io/images/xj.jpg" alt="Jing Xu's Site icon" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle;"></a></p>
+</div>
 
 <br/>
-如果只留言了 intro 和 link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.
+
 <!-- Giscus 评论系统嵌入 -->
 <script src="https://giscus.app/client.js"
         data-repo="ICUlizhi/ICUlizhi.github.io"
