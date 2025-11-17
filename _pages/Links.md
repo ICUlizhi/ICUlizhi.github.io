@@ -60,6 +60,13 @@ author_profile: true
 <br/><br/>
 <div class="friend-links-container">
     <!-- 每个好友卡片 -->
+        <div class="friend-card" style="background-color: #d7ccc8;">
+  <a href="https://arthals.ink/" target="_blank">
+    <img src="https://cdn.arthals.ink/Arthals.png" alt="Arthals' ink" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">Arthals' ink</div>
+    <div class="friend-intro">所见高山远木，阔云流风；所幸岁月盈余，了无拘束</div>
+  </a>
+</div>
     <div class="friend-card" style="background-color: #f0f0f0;">
       <a href="https://blog.imyangty.com/" target="_blank">
         <img src="../images/avatars/54734412.jpg" alt="YangTY's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
@@ -130,6 +137,58 @@ author_profile: true
     <div class="friend-intro">只因"现在"深爱其中</div>
   </a>
 </div>
+    <div class="friend-card" style="background-color: #e0f2f1;">
+  <a href="https://luoxiaogan.github.io/GanLuo.github.io/" target="_blank">
+    <img src="https://github.com/Luoxiaogan/GanLuo.github.io/blob/main/images/android-chrome-192x192.png?raw=true" alt="Little Wolf's Site" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">Little Wolf's Site</div>
+    <div class="friend-intro">芝士小狼</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #fff3e0;">
+  <a href="https://gaystarc.github.io/" target="_blank">
+    <img src="https://github.com/gaystarc.png" alt="gaystarc" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">gaystarc</div>
+    <div class="friend-intro"></div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #e8f5e9;">
+  <a href="https://a1henu.github.io/" target="_blank">
+    <img src="https://github.com/a1henu.png" alt="a1henu" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">a1henu</div>
+    <div class="friend-intro"></div>
+  </a>
+</div>
+   <div class="friend-card" style="background-color: #fff9c4;">
+  <a href="https://catburgg.github.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/164732068?v=4" alt="catburgg" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">catburgg</div>
+    <div class="friend-intro">去码头整点薯条</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #e1f5fe;">
+  <a href="https://wooreay.github.io/" target="_blank">
+    <img src="https://wooreay.github.io/avatar.png" alt="wooreay" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">wooreay</div>
+    <div class="friend-intro">Developer · Creator · Continuous Learner</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #fce4ec;">
+  <a href="https://logic61.github.io/" target="_blank">
+    <img src="https://github.com/logic61.png" alt="logic61" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">logic</div>
+    <div class="friend-intro">冀幸橐龠生光</div>
+  </a>
+</div>
+ 
+    <div class="friend-card" style="background-color: #f3e5f5;">
+  <a href="https://wjysite.com/" target="_blank">
+    <img src="https://github.com/WJY.png" alt="WJY" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">WJY</div>
+    <div class="friend-intro"></div>
+  </a>
+</div>
+
+
   </div>
 <br/><br/><br/>
 
