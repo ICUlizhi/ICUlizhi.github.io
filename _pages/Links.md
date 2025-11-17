@@ -101,11 +101,11 @@ author_profile: true
         <div class="friend-intro">Not even wrong</div>
       </a>
     </div>
-    <div class="friend-card" style="background-color: #f2c0b4;">
-      <a href="https://djdjz7.top" target="_blank">
-        <img src="../images/avatars/1111.jpg" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
-        <div class="friend-name">堜互涓�绠€</div>
-        <div class="friend-intro">藉娴嬩屾澂鍙ｆ皵涔版潵鏃</div>
+    <div class="friend-card" style="background-color: #FDC57A;">
+      <a href="https://illusion.blog" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/48580179?v=4" alt="Achyutace" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">嘉</div>
+        <div class="friend-intro">喵</div>
       </a>
     </div>
     <div class="friend-card" style="background-color: #f5dda7;">
@@ -113,6 +113,13 @@ author_profile: true
     <img src="https://www.chenquan-tutu.top/images/avatar.jpg" alt="QQ" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
     <div class="friend-name">QQ</div>
     <div class="friend-intro">一只兔兔</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #ffeef0;">
+  <a href="https://www.elainafan.one/" target="_blank">
+    <img src="https://www.elainafan.one/img/avatar_hu1071812203031902840.jpg" alt="Elainafan's blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">Elainafan's blog</div>
+    <div class="friend-intro">只因"现在"深爱其中</div>
   </a>
 </div>
   </div>
