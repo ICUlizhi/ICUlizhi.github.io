@@ -179,12 +179,25 @@ author_profile: true
     <div class="friend-intro">冀幸橐龠生光</div>
   </a>
 </div>
- 
     <div class="friend-card" style="background-color: #f3e5f5;">
   <a href="https://wjysite.com/" target="_blank">
     <img src="https://github.com/WJY.png" alt="WJY" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
     <div class="friend-name">WJY</div>
     <div class="friend-intro"></div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #e8eaf6;">
+  <a href="https://skywalkjian-site.vercel.app/" target="_blank">
+    <img src="https://dl.img.timecdn.cn/2025/03/06/26dc9c3e7f3a69e093eab64935d3223b.png" alt="hopefully it will bloom with a sky full of stars" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">skywalkjian</div>
+    <div class="friend-intro">hopefully it will bloom with a sky full of stars</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #ede7f6;">
+  <a href="https://github.com/twj-ink" target="_blank">
+    <img src="https://github.com/twj-ink/img/blob/main/img/avatar1.png?raw=true" alt="GaleInk" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">GaleInk</div>
+    <div class="friend-intro">Determination</div>
   </a>
 </div>
 
