@@ -55,12 +55,6 @@ author_profile: true
 </head>
 <body>
 
-
-<h2>下载专区</h2>
-<ul>
-  <li><a href="../files/北京大学2025春季课表.xlsx">北京大学2025年春季课表(可搜索)</a></li>
-</ul>
-
 <h2>友链</h2>
 
 <br/><br/>
@@ -115,7 +109,21 @@ author_profile: true
     <div class="friend-intro">一只兔兔</div>
   </a>
 </div>
-    <div class="friend-card" style="background-color: #ffeef0;">
+    <div class="friend-card" style="background-color: #DEFCCC;">
+      <a href="https://chryseisliu.github.io/" target="_blank">
+        <img src="https://chryseisliu.github.io/images/IMG_1303.jpeg" alt="Chryseis Liu" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">Chryseis Liu</div>
+        <div class="friend-intro">it from bit</div>
+      </a>
+    </div>
+    <div class="friend-card" style="background-color: #C6F7F3;">
+      <a href="https://lwlaymh.github.io/" target="_blank">
+        <img src="https://lwlaymh.github.io/images/%E5%A4%B4%E5%83%8F1.jpg" alt="LWLAymh" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">LWLAymh</div>
+        <div class="friend-intro">不过是白日梦里一瞬息</div>
+      </a>
+    </div>
+        <div class="friend-card" style="background-color: #ffeef0;">
   <a href="https://www.elainafan.one/" target="_blank">
     <img src="https://www.elainafan.one/img/avatar_hu1071812203031902840.jpg" alt="Elainafan's blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
     <div class="friend-name">Elainafan's blog</div>
@@ -126,14 +134,21 @@ author_profile: true
 <br/><br/><br/>
 
 
-请在评论区留言告知 intro 和 link, 或者微信 or 邮箱联系我.
-- Name: Jing Xu's Site
-- Introduction: 上士闻道, 勤而行之.
-- Link: https://iculizhi.github.io/
-- Icon: https://iculizhi.github.io/images/xj.png
+请在评论区留言告知 intro 和 link , 或者微信 or 邮箱联系我.
+
+<pre style="background:#f6f8fa;padding:12px;border-radius:6px;overflow:auto;">
+<code class="language-json" aria-label="Jing Xu's Site metadata">
+{
+  &quot;name&quot;: &quot;Jing Xu's Site&quot;,
+  &quot;intro&quot;: &quot;上士闻道, 勤而行之.&quot;,
+  &quot;link&quot;: &quot;https://iculizhi.github.io/&quot;,
+  &quot;icon&quot;: &quot;https://iculizhi.github.io/images/xj.jpg&quot;
+}
+</code>
+</pre>
 
 <br/>
-如果只留言了 intro 和 link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.
+
 <!-- Giscus 评论系统嵌入 -->
 <script src="https://giscus.app/client.js"
         data-repo="ICUlizhi/ICUlizhi.github.io"

@@ -8,21 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in the 22nd Turing Class. At the same time, I studied for a double degree in economics at the National School of Development.
+I'm a senior at the School of **EECS, Peking University (22nd Turing Class)**, also pursuing a double degree in Economics at the **National School of Development**.
 
-My research interests and skills are concentrated in the fields of ml, nlp, llms, etc. I am currently studying in Mr. Yizhou Wang's program.  <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
+Currently interning on the **RL team at Kimi (Moonshot)**, working on **math**-related problems. I am about to graduate and am preparing to enter the job market and submit my resume.
 
-<!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
+Research interests: **NLP, CV, post-training, agent.**
 
-<!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
+## Selected work 
+- 🔭 [Kimi k2 thinking](https://moonshotai.github.io/Kimi-K2/thinking.html) (my domain: HLE / AIME / IMO) — we are the **SOTA of HLE** !
+- 📄 [Resonant Minds: Closed-Loop Social Avatars with Theory of Mind](https://openreview.net/forum?id=bI3xrYzKNb) — CV related paper under review
+- 🚀 [PKUHUB](https://e.pkuhub.cn/) — **founder & top of the leaderboard**
+  - Over **30** course notes and **1.5K** downloads by Peking University faculty and students
+- 🥈 2020 CMO (Chinese Mathematical Olympiad) — Silver Medal
 
-The website is still under construction. Codes and course notes are uploading quickly.
-
-<h2>Pageviews</h2>
+## Pageviews 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
-手残把以前的访问记录全删了×
-<h2>Contact me</h2>
 
+## Contact 
+[Email](mailto:2200012917@stu.pku.edu.cn) / [GitHub](https://github.com/ICUlizhi) / [WeChat](../images/wechat.png)
 
-[Email](mailto:2200012917@stu.pku.edu.cn) / [Github](https://github.com/ICUlizhi) / [Wechat](../images/wechat.png) 
 
