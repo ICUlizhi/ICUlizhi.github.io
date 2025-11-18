@@ -181,9 +181,9 @@ author_profile: true
 </div>
     <div class="friend-card" style="background-color: #f3e5f5;">
   <a href="https://wjysite.com/" target="_blank">
-    <img src="https://github.com/WJY.png" alt="WJY" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <img src="https://wjysite.com/img/avatar.jpg" alt="WJY" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
     <div class="friend-name">WJY</div>
-    <div class="friend-intro"></div>
+    <div class="friend-intro">😊</div>
   </a>
 </div>
     <div class="friend-card" style="background-color: #e8eaf6;">
@@ -198,6 +198,27 @@ author_profile: true
     <img src="https://github.com/twj-ink/img/blob/main/img/avatar1.png?raw=true" alt="GaleInk" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
     <div class="friend-name">GaleInk</div>
     <div class="friend-intro">Determination</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #ffebee;">
+  <a href="https://j-am-ack.github.io/" target="_blank">
+    <img src="https://j-am-ack.github.io/assets/avatar.jpeg" alt="j-am-ack" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">j-am-ack</div>
+    <div class="friend-intro">Partido a Partido</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #e3f2fd;">
+  <a href="https://github.com/TidalHarley" target="_blank">
+    <img src="https://github.com/TidalHarley.png" alt="TidalHarley" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">TidalHarley</div>
+    <div class="friend-intro">To live, to err, to fall, to triumph · Embodied AI</div>
+  </a>
+</div>
+    <div class="friend-card" style="background-color: #f1f8e9;">
+  <a href="https://smallyang688.github.io/" target="_blank">
+    <img src="https://github.com/smallyang688/smallyang688.github.io/blob/master/images/avatar.png?raw=true" alt="smallyang" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">smallyang</div>
+    <div class="friend-intro">我永远相信我自己</div>
   </a>
 </div>
 
