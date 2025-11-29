@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+笔记有点旧，有时间再更新
+
 - 我的笔记不止包含书面整理, 部分还会有**辅助完成作业/整理复习资料**等能够提高效率, 节省重复性工作时间的**Python程序**
 - 这些资料不会包含任何 **不被允许公开** 的 **课件, 往年题** 等, 仅供学习交流使用, 请勿用于商业用途. 如有侵权, 请联系我删除.
 
@@ -138,7 +140,7 @@ author_profile: true
                 <div class="methodology">
                     <ul>
                         <li>这是大乘佛法吗? </li>
-                        <li>此后的一系列<a href="https://iculizhi.github.io/Blogs/%E8%B5%B0%E5%90%914'0%E8%AE%B2%E5%BA%A7(%E5%8C%97%E5%A4%A7%E4%BF%A1%E7%A7%91)" target="_blank">事件</a>, 让我逐步由闭源走向开源</li>
+                        <li>此后的一系列<a href="https://xj.editlife.cn/Blogs/%E8%B5%B0%E5%90%914'0%E8%AE%B2%E5%BA%A7(%E5%8C%97%E5%A4%A7%E4%BF%A1%E7%A7%91)" target="_blank">事件</a>, 让我逐步由闭源走向开源</li>
                     </ul>
                 </div>
             </div>
@@ -177,7 +179,7 @@ author_profile: true
 
 - 本学期新开坑: ych中宏, 数理经济学, cv导论 (继承自 [lyt学长](https://www.lyt0112.com/) )
   - 本学期较忙, 操统与计组力有不逮
-- 加入相应[学习小组](https://iculizhi.github.io/Blogs/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84)请戳我
+- 加入相应[学习小组](https://xj.editlife.cn/Blogs/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84)请戳我
 
 ## 专业课
 
@@ -232,8 +234,8 @@ author_profile: true
 
 ## 说明
 
-- 部分资料是**收费**的. 如果您需要获取这部分资料, 请浏览[此页](https://iculizhi.github.io/Notes/notes).
-- 也欢迎同学们来我的网站[卖笔记](https://iculizhi.github.io/Notes/notes),已有合作者: [qlc](https://github.com/Achyutace)
+- 部分资料是**收费**的. 如果您需要获取这部分资料, 请浏览[此页](https://xj.editlife.cn/Notes/notes).
+- 也欢迎同学们来我的网站[卖笔记](https://xj.editlife.cn/Notes/notes),已有合作者: [qlc](https://github.com/Achyutace)
 
 <script src="https://giscus.app/client.js"
         data-repo="ICUlizhi/ICUlizhi.github.io"

@@ -22,7 +22,7 @@ Research interests: **NLP, CV, post-training, agent.**
 - 🥈 2020 CMO (Chinese Mathematical Olympiad) — Silver Medal
 
 ## Pageviews 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=y3qnfEDLwp7ZD04mZ1XHsZW2xJpS0NFG6U33ujnWyCg&cl=ffffff&w=a"></script>
 
 ## Contact 
 [Email](mailto:2200012917@stu.pku.edu.cn) / [GitHub](https://github.com/ICUlizhi) / [WeChat](../images/wechat.png)

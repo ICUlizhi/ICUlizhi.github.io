@@ -4,7 +4,7 @@
 * 电话及微信：15705694836
 * 邮箱：[2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
 * GitHub：[github.com/ICUlizhi](https://github.com/ICUlizhi)
-* 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
+* 个人主页：[xj.editlife.cn](https://xj.editlife.cn/)
 
 学历
 ======

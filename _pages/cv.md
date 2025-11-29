@@ -47,9 +47,11 @@ redirect_from:
     <br/><br/>
 </body>
 
+CV 有点旧，有时间再更新
+
 * Name: Xu Jing  
 * Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Personal Website: [xj.editlife.cn](https://xj.editlife.cn/)
 
 Education
 ======

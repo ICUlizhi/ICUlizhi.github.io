@@ -234,8 +234,8 @@ author_profile: true
 {
   &quot;name&quot;: &quot;Jing Xu's Site&quot;,
   &quot;intro&quot;: &quot;上士闻道, 勤而行之.&quot;,
-  &quot;link&quot;: &quot;https://iculizhi.github.io/&quot;,
-  &quot;icon&quot;: &quot;https://iculizhi.github.io/images/xj.jpg&quot;
+  &quot;link&quot;: &quot;https://xj.editlife.cn/&quot;,
+  &quot;icon&quot;: &quot;https://xj.editlife.cn/images/xj.jpg&quot;
 }
 </code>
 </pre>
