@@ -51,6 +51,58 @@ author_profile: true
       font-size: 14px;
       color: #777;
     }
+    .social-links-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 24px;
+      margin: 18px 0 28px;
+    }
+    .social-card {
+      position: relative;
+      display: block;
+      width: 240px;
+      padding: 16px;
+      border-radius: 12px;
+      background: #f8f8f8;
+      color: #333;
+      text-decoration: none;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .social-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    }
+    .social-name {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .social-intro {
+      font-size: 14px;
+      color: #666;
+    }
+    .hover-preview {
+      position: absolute;
+      left: 50%;
+      top: calc(100% + 10px);
+      transform: translateX(-50%);
+      width: 170px;
+      border-radius: 10px;
+      border: 1px solid #e9e9e9;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+      z-index: 20;
+      background: #fff;
+    }
+    .social-card:hover .hover-preview {
+      opacity: 1;
+      visibility: visible;
+    }
   </style>
 </head>
 <body>
@@ -225,6 +277,34 @@ author_profile: true
 
   </div>
 <br/><br/><br/>
+
+<h2>社交媒体</h2>
+
+<div class="social-links-container">
+  <a class="social-card" style="background-color: #ffe8ea;" href="https://xhslink.com/m/3uD5emSEIOg" target="_blank" rel="noopener noreferrer">
+    <div class="social-name">我的 xhs</div>
+    <div class="social-intro">点击进入我的小红书主页</div>
+  </a>
+
+  <div class="social-card" style="background-color: #e8f6ff;">
+    <div class="social-name">我的微信公众号</div>
+    <div class="social-intro">鼠标移入卡片显示二维码，扫码关注</div>
+    <img class="hover-preview" src="{{ '/images/微信公众号.jpg' | relative_url }}" alt="我的微信公众号二维码">
+  </div>
+
+  <div class="social-card" style="background-color: #eaf7e8;">
+    <div class="social-name">PKUHUB-offical 公众号</div>
+    <div class="social-intro">鼠标移入卡片显示二维码，扫码关注</div>
+    <img class="hover-preview" src="{{ '/images/wechat.png' | relative_url }}" alt="PKUHUB-offical 公众号二维码">
+  </div>
+
+  <a class="social-card" style="background-color: #eef1ff;" href="https://space.bilibili.com/3546674297309379?spm_id_from=333.337.0.0" target="_blank" rel="noopener noreferrer">
+    <div class="social-name">plib 的 B 站号</div>
+    <div class="social-intro">点击进入 Bilibili 主页</div>
+  </a>
+</div>
+
+<br/>
 
 
 请在评论区留言告知 intro 和 link , 或者微信 or 邮箱联系我.
